@@ -1,0 +1,22 @@
+{
+  "name": "Valo_iO",
+  "short_name": "Valo",
+  "description": "Want to know more about Valo I/O? Here are all the links!",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#37e5ee",
+  "theme_color": "#6487e7",
+  "icons": [
+    {
+      "src": "/favicon.png",
+      "sizes": "256x256",
+      "type": "image/png"
+    },
+    {
+        "src": "images/icon.png",
+        "sizes": "460x460",
+        "type": "image/png"
+    }
+  ]
+}

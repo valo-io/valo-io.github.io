@@ -441,7 +441,7 @@ body.is-instant:after {
 }
 
 #columns01 > .wrapper > .inner {
-  --gutters: 2rem;
+  --gutters: 0rem;
   --padding-horizontal: 0rem;
   --padding-vertical: 0rem;
   --spacing: 1rem;
@@ -2046,8 +2046,6 @@ p mark {
 #text08 {
   color: #ffffff;
   font-family: "Lato", sans-serif;
-  font-size: 1.125em;
-  line-height: 1.5;
   font-weight: 300;
 }
 
@@ -2126,6 +2124,7 @@ p mark {
   opacity: 1 !important;
   position: relative;
   transition-delay: 0s !important;
+  font-family: "Lato", sans-serif;
 }
 
 .icc-credits span {
@@ -2200,6 +2199,7 @@ p mark {
   opacity: 1;
   transform: scale(1.1) translateY(-0.05rem);
 }
+
 
 #credits span {
   background-color: rgba(80, 80, 80, 0.5);
